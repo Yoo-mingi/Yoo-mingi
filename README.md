@@ -17,7 +17,9 @@
 <br><br>
 
  <div align="center">
-###  :blush: Hello! this is MinGi's area!
+ 
+### :blush: Hello! this is MinGi's area!
+ 
   </div>
  <br><br>
 Hi there! my name is Yoo-Min Gi. <br>
