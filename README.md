@@ -1,3 +1,5 @@
+ <div align="center">
+
 <p>
 <a href = "https://www.instagram.com/yoomingi31/?hl=ko">
 <img src="https://img.shields.io/badge/Instagram-0076D6?style=flat-square&logo=Instagram&logoColor=white"/>
@@ -10,11 +12,14 @@
 </a>
  
 </p>
+  </div>
 
 <br><br>
 
+ <div align="center">
 ###  :blush: Hello! this is MinGi's area!
-<br><br>
+  </div>
+ <br><br>
 Hi there! my name is Yoo-Min Gi. <br>
 I am trying to be positive and learning various skills to grow.
 
