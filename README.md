@@ -24,15 +24,15 @@
  <br><br>
 Hi there! my name is Yoo-Min Gi. <br>
 I am trying to be positive and learning various skills to grow.
-
+<br><br>
 I hope to be an excellent engineer in the future.<br>
 I really hope to be an excellent engineer in the future!
-<br><br><br>
+<br><br>
 
  :seedling: a always growing......<br>
  :pencil2: learn about programming.
  
- <br><br><br>
+ <br><br>
  <div align="center">
 
 
