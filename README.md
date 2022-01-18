@@ -5,16 +5,37 @@
  
 <img src="https://img.shields.io/badge/zerotansan@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
+<a href = "https://blog.naver.com/alsrl9531">
+<img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+</a>
+ 
 </p>
 
 
+###  :blush: Hello! this is MinGi's area!
+
+Hi there! my name is Yoo-Min Gi. 
+I am trying to be positive and learning various skills to grow.
+
+I hope to be an excellent engineer in the future.
+I really hope to be an excellent engineer in the future!
 
 
-
-
-
-###  😄 Hello! this is MinGi's area!
-
- 🌱 a always growing......
- 🤔 learn about programming.
+ :seedling: a always growing......
+ :pencil2: learn about programming.
  
+ 
+### :muscle: Skills
+
+## Languages
+
+<p>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C#-00599C?style=flat-square&logo=C Sharp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+ </p>
+
