@@ -3,4 +3,4 @@
  🌱 a always growing......
  🤔 learn about programming.
  
-https://img.shields.io/badge/<logo=E4405F>-<Instagram>-<blue>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=blue"/>
