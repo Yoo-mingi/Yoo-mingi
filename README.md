@@ -11,21 +11,21 @@
  
 </p>
 
-
+<br><br>
 
 ###  :blush: Hello! this is MinGi's area!
-
-Hi there! my name is Yoo-Min Gi. 
+<br><br>
+Hi there! my name is Yoo-Min Gi. <br>
 I am trying to be positive and learning various skills to grow.
 
-I hope to be an excellent engineer in the future.
+I hope to be an excellent engineer in the future.<br>
 I really hope to be an excellent engineer in the future!
-
+<br><br><br>
 
  :seedling: a always growing......<br>
  :pencil2: learn about programming.
  
- 
+ <br><br><br>
  
 ### :muscle: Skills
 
