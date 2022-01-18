@@ -26,7 +26,9 @@ I really hope to be an excellent engineer in the future!
  :pencil2: learn about programming.
  
  <br><br><br>
- 
+ <div align="center">
+
+
 ### :muscle: Skills
 
 ## Languages
@@ -39,3 +41,5 @@ I really hope to be an excellent engineer in the future!
  <img src="https://img.shields.io/badge/C Sharp-00599C?style=flat-square&logo=C Sharp&logoColor=white"/>
  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
  </p>
+ 
+ </div>
