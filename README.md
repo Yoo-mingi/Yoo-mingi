@@ -12,6 +12,7 @@
 </p>
 
 
+
 ###  :blush: Hello! this is MinGi's area!
 
 Hi there! my name is Yoo-Min Gi. 
@@ -23,6 +24,7 @@ I really hope to be an excellent engineer in the future!
 
  :seedling: a always growing......
  :pencil2: learn about programming.
+ 
  
  
 ### :muscle: Skills
@@ -38,4 +40,3 @@ I really hope to be an excellent engineer in the future!
  <img src="https://img.shields.io/badge/C#-00599C?style=flat-square&logo=C Sharp&logoColor=white"/>
  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
  </p>
-
