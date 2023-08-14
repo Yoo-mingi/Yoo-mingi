@@ -10,6 +10,8 @@
 <a href = "https://blog.naver.com/alsrl9531">
 <img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </a>
+
+https://github.com/Yoo-mingi/Yoo-mingi
  
 </p>
   </div>
