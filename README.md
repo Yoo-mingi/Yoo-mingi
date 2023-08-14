@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </a>
 
-https://github.com/Yoo-mingi/Yoo-mingi
+![CKA](https://github.com/Yoo-mingi/CKA/assets/95891534/a12e9f7e-d9ee-4d7a-a3b9-6c2cde9453a4)
  
 </p>
   </div>
