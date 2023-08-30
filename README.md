@@ -29,8 +29,9 @@ I hope to be an excellent engineer in the future.<br>
 I really hope to be an excellent engineer in the future!
 <br><br>
 
- :seedling: a always growing......<br>
- :pencil2: learn about programming.
+ certificate : <br>
+   - CKA (date : 2023/08) <br>
+   - CKAD (date : 2023/08) <br>
  
  <br>
  <div align="center">
