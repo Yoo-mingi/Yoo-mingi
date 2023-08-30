@@ -11,9 +11,9 @@
 <img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </a>
 
-<img
-src="![스크린샷 2023-08-30 102925](https://github.com/Yoo-mingi/Yoo-mingi/assets/95891534/68582d2b-89b7-4b60-aa73-3ff86f5cea43)"
-style="width:100px; height:100px;"
+<img\
+src="![스크린샷 2023-08-30 102925](https://github.com/Yoo-mingi/Yoo-mingi/assets/95891534/68582d2b-89b7-4b60-aa73-3ff86f5cea43)" \
+style="width:100px; height:100px;" \
 / >
 
 <img
