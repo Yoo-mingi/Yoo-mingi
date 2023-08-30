@@ -10,9 +10,9 @@
 <a href = "https://blog.naver.com/alsrl9531">
 <img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 </a>
+<img src="![스크린샷 2023-08-30 102925](https://github.com/Yoo-mingi/Yoo-mingi/assets/95891534/68582d2b-89b7-4b60-aa73-3ff86f5cea43)" width="175" height="250" alt="사과" />
+<img src="![스크린샷 2023-08-30 102945](https://github.com/Yoo-mingi/Yoo-mingi/assets/95891534/3d053378-1087-4957-a726-1355a9045c73)" width="175" height="250" alt="사과" />
 
-![스크린샷 2023-08-30 102925](https://github.com/Yoo-mingi/Yoo-mingi/assets/95891534/68582d2b-89b7-4b60-aa73-3ff86f5cea43)
-![스크린샷 2023-08-30 102945](https://github.com/Yoo-mingi/Yoo-mingi/assets/95891534/3d053378-1087-4957-a726-1355a9045c73)
  
 </p>
   </div>
